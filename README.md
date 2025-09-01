@@ -47,6 +47,8 @@ And remember: I consistently use the AI Enhance or AI Repair tool in AirBrush to
 
 
 Since I was still not satisfied with the image quality, I used Canva’s Image Enhancer tool to significantly increase the resolution - boosting it from 300 KB to 4 MB.
+
+
 🔗 https://www.canva.com/features/image-enhancer/
 
 I also made sure to export the final design from Canva at the highest possible quality setting for a crisp, professional result.
